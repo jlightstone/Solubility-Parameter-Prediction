@@ -1,0 +1,148 @@
+Polymer_Name,SMILES,MV,Density,Solubility_Parameter
+Poly(methyl cyanoacrylate),COC(=O)C(=C)C#N,83.6,1.33,29.2
+Polycyanoacrylates,CCOC(=O)C(=C)C#N,98.6,1.27,23.5
+Poly(butyl cyanoacrylate),CCCCOC(=O)C(=C)C#N,130.9,1.17,22
+Poly(hexyl cyanoacrylate),CCCCCCOC(=O)C(=C)C#N,163,1.11,20.8
+Poly(octyl cyanoacrylate),CCCCCCCCOC(=O)C(=C)C#N,195.5,1.07,20.1
+Poly(p-phenylene),Brc1ccc(cc1)Br,68.6,1.11,20.2
+Poly(p-xylene),C1Cc2ccc(cc2)CCc2ccc1cc2,99.2,1.05,19.1
+Poly(2-chloro-p-xylylene),Clc1cc2CCc3ccc(CCc1cc2)cc3Cl,,,19.6
+Polychlorotrifluoroethylene,FC(=C(F)F)Cl,58.3,2,16
+Poly(tetrafluoroethylene),FC(=C(F)F)F,47.9,2.12,12.3
+Poly(vinyl bromide),BrC=C,50.2,2.13,19.4
+Poly(vinyl chloride),ClC=C,45.2,1.38,19.6
+Poly(vinyl fluoride),FC=C,34.4,1.34,15.7
+Poly(vinylidene chloride),ClC(=C)Cl,56.6,1.71,20.6
+Poly(vinylidene fluoride),FC(=C)F,38.2,1.68,17.5
+Poly(4-bromostyrene),C=Cc1ccc(cc1)Br,119,0.87,19.7
+Poly(2-chlorostyrene),C=Cc1ccccc1Cl,114,1.22,19
+Poly(4-chlorostyrene),C=Cc1ccc(cc1)Cl,112.6,1.23,19.2
+Poly(25-difluorostyrene),C=Cc1cc(F)ccc1F,106,0.96,17.7
+Poly(4-fluorostyrene),C=Cc1ccc(cc1)F,102,1.2,18.8
+Poly(vinyl acetate),CC(=O)OC=C,72.3,1.19,19.6
+Poly(vinyl benzoate),C=COC(=O)c1ccccc1,120,1.24,20.8
+Poly(vinyl butyrate),CCCC(=O)OC=C,104.5,1.09,18.6
+Poly(vinyl caproate),CCCCCC(=O)OC=C,134.5,1.06,18.2
+Poly(vinyl formate),C=COC=O,,,18.3
+Poly(vinyl propionate),C=COC(=O)CC,89.6,1.12,18.6
+Poly(vinyl stearate),CCCCCCCCCCCCCCCCCC(=O)OC=C,328,0.95,17.4
+Poly(vinyl valerate),CCCCC(=O)OC=C,118,1.08,18.4
+Poly(acrylonitrile),C=CC#N,44.8,1.18,26.2
+Poly(methacrylonitrile),CC(=C)C#N,60.2,1.11,22.9
+Poly(dimehyl itaconate),COC(=O)CC(=C)C(=O)OC,122.2,1.29,20.1
+Poly[di(n-propyl) itaconate],CCCOC(=O)CC(=C)C(=O)OCCC,186.7,1.15,18.6
+Poly[di(n-butyl)itaconate],CCCCOC(=O)CC(=C)C(=O)OCCCC,219,1.11,18.2
+Poly[di(n-hexyl) itaconate],CCCCCCOC(=O)CC(=C)C(=O)OCCCCCC,284,1.05,17.5
+Poly(26-dimethyl-p-phenylene oxide),Oc1c(C)cccc1(C),112.8,1.06,18.3
+Poly(26-diphenyl-p-phenylene oxide),Oc1c(cccc1c1ccccc1)c1ccccc1,214.3,1.14,20.6
+Polyacetal,C=O,24.5,1.23,21.1
+Poly(3-butoxypropylene oxide),CCCCOCC1CO1,133,1.01,18
+Poly(epichlorohydrin),ClCC1CO1,68.9,1.34,19.7
+Poly(ethylene glycol),O1CC1,39,1.13,20.4
+Poly(hexamethylene glycol),C1CCCCOC1,104.4,0.96,17.8
+Poly(glycidyl methyl ether),COCC1CO1,80.5,1.09,18.8
+Poly[oxy(hexyloxymethyl)ethylene],CCCCCCOCC1CO1,161,0.98,17.8
+Poly(oxymethylene-oxyethylene),C1COCO1,63.5,1.17,20.1
+Poly(propylene glycol),CC1CO1,57.9,1,17.2
+Poly(tetrahydrofuran),C1CCCO1,73.7,0.98,17.5
+Poly(trimethylene glycol),C1CCO1,55.9,1.04,18.7
+Poly[11-bis(chloromethyl)trimethylene oxide],C1C(CO1)(CCl)CCl,113,1.37,19.8
+Poly(butyl vinyl ether),CCCCOC=C,109,0.92,18.2
+Poly(ethyl vinyl ether),CCOC=C,74.1,0.97,18.1
+Poly(vinyl isobutyl ether),C=COCC(C)C,109.4,0.92,17.9
+Poly(isopropyl vinyl ether),C=COC(C)C,93.2,0.92,17.9
+Poly(methyl vinyl ether),COC=C,55.6,1.05,18.3
+Poly(octyl vinyl ether),CCCCCCCCOC=C,170,0.92,17.1
+Poly(propyl vinyl ether),CCCOC=C,87.8,0.94,18.1
+Poly(methacrylic acid),CC(=C)C(=O)O,65.3,1.29,26.72
+Poly(benzyl methacrylate),O=C(C(=C)C)OCc1ccccc1,150.3,1.17,20.3
+Poly(butyl methacrylate),CCCCOC(=O)C(=C)C,135,1.05,17.9
+Poly(cyclohexyl methacrylate),O=C(C(=C)C)OC1CCCCC1,153,1.1,18.5
+Poly(n-decyl methacrylate),CCCCCCCCCCOC(=O)C(=C)C,240,0.95,17.4
+Poly(dodecyl methacrylate),CCCCCCCCCCCCOC(=O)C(=C)C,263,0.97,17.4
+Poly(2-ethoxyethyl methacrylate),CCOCCOC(=O)C(=C)C,145.6,1.09,18.6
+Poly(ethyl methacrylate),CCOC(=O)C(=C)C,103,1.11,18.4
+Poly(hexyl methacrylate),CCCCCCOC(=O)C(=C)C,169,1.01,17.4
+Poly(2-hydroxyethyl methacrylate),CC(=C)C(=O)OCCO,103.8,1.25,23.8
+Poly(2-hydroxypropyl methacrylate),CC(COC(=O)C(=C)C)O,120.8,1.19,22.4
+Poly(isobutyl methacrylate),CC(COC(=O)C(=C)C)C,135,1.05,18
+Poly(isopropyl methacrylate),CC(OC(=O)C(=C)C)C,121.7,1.05,18
+Poly(methyl methacrylate),COC(=O)C(=C)C,87.1,1.15,19
+Poly(octadecyl methacrylate),CCCCCCCCCCCCCCCCCCOC(=O)C(=C)C,374.5,0.9,16
+Poly(octyl  methacrylate),CCCCCCCCOC(=O)C(=C)C,198.4,1,17.1
+Poly(2-phenylethyl methacrylate),CC(=C)C(=O)OCCc1ccccc1,167,1.14,19.4
+Poly(phenyl methacrylate),CC(=C)C(=O)Oc1ccccc1,135,1.21,20.1
+Poly(propyl methacrylate),CCCOC(=O)C(=C)C,119,1.08,18.4
+Poly(2-chloroethyl methacrylate),CC(=C)C(=O)OCCCl,113.7,1.31,19.6
+Poly(sec-butyl methacrylate),CCC(OC(=O)C(=C)C)C,135,1.06,17.6
+Poly(4-tert-butylcyclohexyl methacrylate),CC(=C)C(=O)OC1CCC(CC1)C(C)(C)C,228,0.99,17.4
+Poly(tert-butyl methacrylate),CC(=C)C(=O)OC(C)(C)C,139,1.02,17.1
+Poly(tetrafluoropropyl methacrylate),FC(F)C(F)(F)COC(=O)C(=C)C,119.3,1.54,16.2
+Poly(butylene),CCC=C,65.2,0.859,16
+Poly(butyl ethylene),CCCCC=C,97.3,0.86,16.3
+Poly(cyclohexylethylene),C=CC1CCCCC1,117.9,0.94,16.9
+Poly(ethylene),C=C,32.9,0.85,16.7
+Polynonene,CCCCCCCC=C,146,0.86,16.5
+Poly(octene),CCCCCCC=C,130,0.86,16.4
+Poly(isobutene),CC(=C)C,63.8,0.88,15.8
+Poly(isobutylethylene),C=CCC(C)C,100.7,0.84,14.5
+Poly(isopropylethylene),C=CC(C)C,78.1,0.9,17.8
+Poly(butyl ethylene),C=C(C)CC,80.9,0.87,15.7
+Polydecene,CCCCCCCCC=C,162,0.86,16.5
+Poly(1-heptene),CCCCCC=C,114,0.86,16.4
+Poly(propylene),CC=C,48.8,0.86,16.2
+Polypentene,CCCC=C,81.6,0.86,16.3
+Poly(tert-butylethylene),C=CC(C)(C)C,97.9,0.86,15.4
+Polychloroprene,C=CC(=C)Cl,71.3,1.24,18.1
+Poly(1-bromo-1-butenylene),BrC=CC=C,78,1.7,18.8
+Poly(acrylic acid),OC(=O)C=C,51.1,1.41,21.3
+Poly(benzyl acrylate),C=CC(=O)OCc1ccccc1,140.9,1.15,19.5
+Poly(butyl acrylate),CCCCOC(=O)C=C,118.7,1.08,18.5
+Poly(4-chlorophenyl acrylate),C=CC(=O)Oc1ccc(cc1)Cl,140,1.05,19.6
+Poly(2-cyanoethyl acrylate),C=CC(=O)OCCC#N,89.2,1.4,28.4
+Poly(cyanomethyl acrylate),C=CC(=O)OCC#N,82.1,1.35,26.3
+Poly(cyclohexyl acrylate),C=CC(=O)OC1CCCCC1,142.7,1.08,19
+Poly(ethyl acrylate),CCOC(=O)C=C,89.4,1.12,19.1
+Poly(2-ethylhexyl acrylate),CCCCC(COC(=O)C=C)CC,191.8,0.96,18.5
+Poly(hexyl acrylate),CCCCCCOC(=O)C=C,150.7,1.04,18.1
+Poly(isobutyl acrylate),C=CC(=O)OCC(C)C,119.3,1.07,18.2
+Poly(isopropyl acrylate),CC(C)OC(=O)C=C,104,1.1,18.2
+Poly(methyl acrylate),COC(=O)C=C,70.4,1.22,20
+Poly(n-octyl acrylate),CCCCCCCCOC(=O)C=C,183,1.01,17.9
+Poly(propyl acrylate),CCCOC(=O)C=C,103.1,1.11,18.7
+Poly(sec-butyl acrylate),CC(OC(=O)C=C)CC,122.1,,18
+Poly(octadecyl acrylate),CCCCCCCCCCCCCCCCCCCCCCCCCCOC(=O)C=C,344,0.94,17.4
+Poly(tert-butyl acrylate),C=CC(=O)OC(C)(C)C,128.2,1,17.7
+Poly(tetrafluoropropyl acrylate),FC(F)C(F)(F)COC(=O)C(=C),119,1.52,16.5
+Poly(butyl vinyl thioether),CCCCSC=C,118.6,0.98,17.5
+Poly(ethyl vinyl thioether),CCSC=C,82.4,1.07,22.1
+Poly(methyl vinyl thioether),CSC=C,66.8,1.11,19.1
+Poly(vinyl phenyl sulfide),C=CSc1ccccc1,118.2,1.15,19.3
+Poly(propyl vinyl thioether),CCCSC=C,99.9,1.02,17.6
+Poly(N-acetylmethacrylamide),CC(=O)NC(=O)C(=C)C,112,1.14,26.8
+Poly(N-benzyl methacrylamide),O=C(C(=C)C)NCc1ccccc1,155.5,1.13,22.5
+Poly(butyl chloroacrylate,CCCCOC(=O)C(=C)Cl,130,0,19.2
+Poly(ethyl chloroacrylate,CCOC(=O)C(=C)Cl,97.5,1.38,20
+Poly(propyl chloroacrylate,CCCOC(=O)C(=C)Cl,114,1.31,19.6
+Poly(dimethyl fumarate),COC(=O)/C=C/C(=O)OC,115.5,1.25,19.9
+Poly(dibutylfumarate),CCCCOC(=O)/C=C/C(=O)OCCCC,205,1.12,18.7
+Poly(diethyl fumarate),CCOC(=O)/C=C/C(=O)OCC,145.5,1.18,18.6
+Poly(diproylfumarate),CCCOC(=O)/C=C/C(=O)OCCC,165.7,1.21,19.1
+Poly(1-pentenylene),C1CC=CC1,76,0.9,16.8
+Poly(acrylamide),OC(=N)C=C,54.6,1.3,25.9
+Poly(N-isopropyl acrylamide),C=CC(=O)NC(C)C,107.8,1.05,23.1
+Poly(N-octyl acrylamide),CCCCCCCCNC(=O)C=C,183.5,1,21.8
+Poly(N-tert-butyl acrylamide),C=CC(=O)NC(C)(C)C,123,1.03,23
+Poly(N-phenylacrylamide),C=CC(=O)Nc1ccccc1,128.5,1.15,24.9
+Poly(N-sec-butylacrylamide),C=CC(=O)NC(C)CC,123.7,1.03,22.6
+Poly(vinyl ethyl ketone),CCC(=O)C=C,81.8,1.03,20.2
+Poly(vinyl methyl ketone),CC(=O)C=C,62.6,1.12,20.7
+Poly(methyl isopropenyl ketone),CC(=O)C(C)=C,74.1,1.14,20.2
+Poly(vinyl phenyl ketone),C=CC(=O)c1ccccc1,113,1.17,22
+Poly(2-methoxystyrene),C=Cc1ccccc1OC,122.4,1.1,19.4
+Poly(alpha-methylstyrene),CC(=C)c1ccccc1,110.4,1.07,18.4
+Poly(2-methylstyrene),C=Cc1ccccc1C,114.9,1.03,18.8
+Poly(3-methylstyrene),C=Cc1cccc(c1)C,115,1.03,18.8
+Poly(4-methylstyrene),C=Cc1ccc(cc1)C,115.1,1.03,18.8
+Polystyrene,C=Cc1ccccc1,99.2,1.05,18.3
+Poly(4-tert-butylstyrene),C=Cc1ccc(cc1)C(C)(C)C,168.7,0.95,16.6
